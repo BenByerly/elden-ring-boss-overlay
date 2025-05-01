@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Elden Ring Boss Checklist</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: rgba(0, 0, 0, 0.6);
+      color: white;
+      margin: 0;
+      padding: 0;
+    }
+
+    #titlebar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      -webkit-app-region: drag;
+      background-color: #222;
+      padding: 5px 10px;
+      font-size: 1em;
+      user-select: none;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+    }
+
+    .window-controls {
+      -webkit-app-region: no-drag;
+    }
+
+    .window-controls button {
+      background: none;
+      border: none;
+      color: white;
+      font-size: 1em;
+      margin-left: 10px;
+      cursor: pointer;
+    }
+
+    .window-controls button:hover {
+      color: red;
+    }
+
+    #bosses {
+      padding: 20px;
+    }
+
+    .region {
+      margin: 10px 0;
+      padding: 10px;
+      border: 1px solid white;
+      border-radius: 5px;
+      background-color: rgba(0, 0, 0, 0.8);
+    }
+
+    .region-name {
+      font-size: 1.5em;
+      cursor: pointer;
+    }
+
+    .boss-list {
+      display: none;
+      margin-top: 10px;
+    }
+
+    .boss-item {
+      margin: 5px 0;
+      display: flex;
+      align-items: center;
+    }
+
+    .boss-item input {
+      margin-right: 10px;
+    }
+
+    label {
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div id="titlebar">
+    <div class="drag-region">Elden Ring Boss Checklist</div>
+    <div class="window-controls">
+      <button id="minimize">—</button>
+      <button id="maximize">🗖</button>
+      <button id="close">✕</button>
+    </div>
+  </div>
+
+  <div id="boss-counter">Bosses Killed: 0 / 0</div>
+  <div id="bosses"></div>
+
+  <script src="renderer.js"></script>
+</body>
+</html>

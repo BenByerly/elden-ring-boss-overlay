@@ -1,0 +1,395 @@
+[
+    {
+      "location": "Limgrave",
+      "bosses": [
+        "Anastasia, Tarnished-Eater",
+        "Beastman of Farum Azula",
+        "Bell Bearing Hunter",
+        "Black Knife Assassin",
+        "Bloodhound Knight Darriwil",
+        "Crucible Knight",
+        "Deathbird",
+        "Demi-Human Chief (Duo 1)",
+        "Demi-Human Chief (Duo 2)",
+        "Erdtree Burial Watchdog (Stormfoot Catacombs)",
+        "Flying Dragon Agheel",
+        "Godrick the Grafted",
+        "Grafted Scion (Chapel of Anticipation)",
+        "Grafted Scion (Stormveil Castle)",
+        "Grave Warden Duelist",
+        "Guardian Golem",
+        "Mad Pumpkin Head",
+        "Margit, the Fell Omen",
+        "Night's Cavalry",
+        "Old Knight Istvan (Volcano Manor Contract)",
+        "Patches",
+        "Soldier of Godrick",
+        "Stonedigger Troll",
+        "Tibia Mariner",
+        "Tree Sentinel",
+        "Ulcerated Tree Spirit (Fringefolk Hero's Grave)",
+        "Ulcerated Tree Spirit (Stormveil Castle)"
+      ]
+    },
+    {
+      "location": "Weeping Peninsula",
+      "bosses": [
+        "Ancient Hero of Zamor",
+        "Cemetery Shade",
+        "Deathbird",
+        "Erdtree Avatar",
+        "Erdtree Burial Watchdog (Impaler's Catacombs)",
+        "Leonine Misbegotten",
+        "Miranda the Blighted Bloom",
+        "Night's Cavalry",
+        "Runebear",
+        "Scaly Misbegotten"
+      ]
+    },
+    {
+      "location": "Liurnia of the Lakes",
+      "bosses": [
+        "Adan, Thief of Fire",
+        "Alabaster Lord",
+        "Alecto, Black Knife Ringleader",
+        "Bell Bearing Hunter",
+        "Black Knife Assassin",
+        "Bloodhound Knight",
+        "Bols, Carian Knight",
+        "Cemetery Shade",
+        "Cleanrot Knight",
+        "Crystalian",
+        "Crystalian Spear 1",
+        "Crystalian Staff 2",
+        "Death Rite Bird",
+        "Deathbird",
+        "Erdtree Avatar (Liurnia Northeast)",
+        "Erdtree Avatar (Liurnia Southwest)",
+        "Erdtree Burial Watchdog",
+        "Glintstone Dragon Adula",
+        "Glintstone Dragon Smarag",
+        "Magma Wyrm Makar",
+        "Moongrum",
+        "Night's Cavalry (Liurnia North)",
+        "Night's Cavalry (Liurnia South)",
+        "Omenkiller",
+        "Onyx Lord",
+        "Red Wolf of Radagon",
+        "Rennala, Queen of the Full Moon",
+        "Royal Knight Loretta",
+        "Royal Revenant",
+        "Spirit-Caller Snail",
+        "Tibia Mariner"
+      ]
+    },
+    {
+      "location": "Caelid",
+      "bosses": [
+        "Cemetery Shade",
+        "Commander O'Neil",
+        "Crucible Knight (Duo 1)",
+        "Misbegotten Warrior (Duo 2)",
+        "Death Rite Bird",
+        "Decaying Ekzykes",
+        "Erdtree Burial Watchdog (Duo 1)",
+        "Erdtree Burial Watchdog (Duo 2)",
+        "Fallingstar Beast",
+        "Frenzied Duelist",
+        "Mad Pumpkin Heads",
+        "Magma Wyrm",
+        "Night's Cavalry (Caelid)",
+        "Nox Swordstress (Duo 1)",
+        "Nox Priest (Duo 2)",
+        "Putrid Avatar",
+        "Starscourge Radahn"
+      ]
+    },
+    {
+      "location": "Dragonbarrow",
+      "bosses": [
+        "Battlemage Hugues",
+        "Beastman of Farum Azula (Duo 1)",
+        "Beastman of Farum Azula (Duo 2",
+        "Bell Bearing Hunter",
+        "Black Blade Kindred",
+        "Cleanrot Knight (Duo 1)",
+        "Cleanrot Knight (Duo 2)",
+        "Crystalians (Trio 1)",
+        "Crystalians (Trio 2)",
+        "Crystalians (Trio 3)",
+        "Flying Dragon Greyll",
+        "Godskin Apostle",
+        "Night's Cavalry (Dragonbarrow)",
+        "Putrid Avatar",
+        "Putrid Crystalian Trio",
+        "Putrid Tree Spirit"
+      ]
+    },
+    {
+      "location": "Altus Plateau",
+      "bosses": [
+        "Ancient Dragon Lansseax",
+        "Ancient Hero of Zamor",
+        "Black Knife Assassin (Sage's Cave)",
+        "Black Knife Assassin (Sainted Hero's Grave)",
+        "Crystalian Spear (Duo 1)",
+        "Crystalian Ringblade (Duo 2)",
+        "Demi-Human Queen Gilika",
+        "Elemer of the Briar",
+        "Erdtree Burial Watchdog",
+        "Fallingstar Beast",
+        "Godefroy The Grafted",
+        "Godskin Apostle",
+        "Necromancer Garris",
+        "Night's Cavalry",
+        "Omenkiller (Duo 1)",
+        "Miranda the Blighted Bloom (Duo 2)",
+        "Perfumer Tricia (Duo 1)",
+        "Misbegotten Warrior (Duo 2)",
+        "Sanguine Noble",
+        "Stonedigger Troll",
+        "Tibia Mariner",
+        "Tree Sentinel (Duo 1)",
+        "Tree Sentinel (Duo 2)",
+        "Wormface"
+      ]
+    },
+    {
+      "location": "Mt. Gelmir",
+      "bosses": [
+        "Abductor Virgins (Duo 1)",
+        "Abductor Virgins (Duo 2)",
+        "Demi-Human Queen Maggie",
+        "Demi-Human Queen Margot",
+        "Full-Grown Fallingstar Beast",
+        "God-Devouring Serpent / Rykard, Lord of Blasphemy",
+        "Godskin Noble",
+        "Kindred of Rot (Duo 1)",
+        "Kindred of Rot (Duo 2)",
+        "Magma Wyrm (Fort Laiedd)",
+        "Red Wolf of the Champion",
+        "Ulcerated Tree Spirit"
+      ]
+    },
+    {
+      "location": "Capital Outskirts",
+      "bosses": [
+        "Bell Bearing Hunter",
+        "Crucible Knight (Duo 1)",
+        "Crucible Knight Ordovis (Duo 2)",
+        "Deathbird",
+        "Draconic Tree Sentinel",
+        "Fell Twins",
+        "Grave Warden Duelist",
+        "Onyx Lord"
+      ]
+    },
+    {
+      "location": "Leyndell, Royal Capital",
+      "bosses": [
+        "Esgar, Priest of Blood",
+        "Godfrey, First Elden Lord",
+        "Mohg, the Omen",
+        "Morgott, the Omen King"
+      ]
+    },
+    {
+      "location": "Mountaintops of the Giants",
+      "bosses": [
+        "Ancient Hero of Zamor",
+        "Borealis the Freezing Fog",
+        "Commander Niall",
+        "Death Rite Bird",
+        "Erdtree Avatar",
+        "Fire Giant",
+        "Godskin Apostle and Godskin Noble (Spiritcaller Snail)",
+        "Ulcerated Tree Spirit",
+        "Vyke, Knight of the Roundtable"
+      ]
+    },
+    {
+      "location": "Crumbling Farum Azula",
+      "bosses": [
+        "Beast Clergyman / Maliketh, the Black Blade",
+        "Dragonlord Placidusax",
+        "Godskin Duo"
+      ]
+    },
+    {
+      "location": "Forbidden Lands",
+      "bosses": [
+        "Black Blade Kindred",
+        "Night's Cavalry",
+        "Stray Mimic Tear"
+      ]
+    },
+    {
+      "location": "Consecrated Snowfield",
+      "bosses": [
+        "Astel, Stars of Darkness",
+        "Death Rite Bird",
+        "Great Wyrm Theodorix",
+        "Misbegotten Crusader",
+        "Night's Cavalry (Duo 1)",
+        "Night's Cavalry (Duo 2)",
+        "Putrid Avatar",
+        "Putrid Grave Warden Duelist"
+      ]
+    },
+    {
+      "location": "Miquella's Haligtree",
+      "bosses": [
+        "Loretta, Knight of the Haligtree",
+        "Malenia, Blade of Miquella"
+      ]
+    },
+    {
+      "location": "Siofra River",
+      "bosses": [
+        "Ancestor Spirit",
+        "Dragonkin Soldier",
+        "Mohg, Lord of Blood"
+      ]
+    },
+    {
+      "location": "Ainsel River",
+      "bosses": [
+        "Dragonkin Soldier of Nokstella"
+      ]
+    },
+    {
+      "location": "Nokron, Eternal City",
+      "bosses": [
+        "Mimic Tear",
+        "Regal Ancestor Spirit",
+        "Valiant Gargoyle (Duo 1)",
+        "Valiant Gargoyle (Twinblade)(Duo 2)"
+      ]
+    },
+    {
+      "location": "Deeproot Depths",
+      "bosses": [
+        "Crucible Knight Siluria",
+        "Fia's Champions",
+        "Lichdragon Fortissax"
+      ]
+    },
+    {
+      "location": "Lake of Rot",
+      "bosses": [
+        "Astel, Naturalborn of the Void",
+        "Dragonkin Soldier"
+      ]
+    },
+    {
+      "location": "Leyndell, Ashen Capital",
+      "bosses": [
+        "Esgar, Priest of Blood",
+        "Godfrey, First Elden Lord (Hoarah Loux)",
+        "Mohg, the Omen",
+        "Sir Gideon Ofnir, the All-Knowing"
+      ]
+    },
+    {
+      "location": "Elden Throne",
+      "bosses": [
+        "Radagon of the Golden Order / Elden Beast"
+      ]
+    },
+    {
+      "location": "Gravesite Plain",
+      "bosses": [
+        "Blackgaol Knight",
+        "Chief Bloodfiend",
+        "Demi-Human Swordmaster Onze",
+        "Divine Beast Dancing Lion",
+        "Ghostflame Dragon",
+        "Rellana Twin Moon Knight",
+        "Red Bear"
+      ]
+    },
+    {
+      "location": "Scadu Altus",
+      "bosses": [
+        "Black Knight Edredd",
+        "Black Knight Garrew",
+        "Count Ymir, Mother of Fingers",
+        "Curseblade Labirith",
+        "Death Knight",
+        "Dryleaf Dane",
+        "Ghostflame Dragon",
+        "Golden Hippopotamus",
+        "Messmer the Impaler + Base Serpent Messmer",
+        "Metyr, Mother of Fingers",
+        "Rakshasa",
+        "Jori, Elder Inquisitor",
+        "Ralva the Great Red Bear",
+        "Tree Sentinel"
+      ]
+    },
+    {
+      "location": "Rauh Base",
+      "bosses": [
+        "Death Knight",
+        "Rugalea the Great Red Bear"
+      ]
+    },
+    {
+      "location": "Cerulean Coast",
+      "bosses": [
+        "Dancer of Ranah",
+        "Demi-Human Queen Marigga",
+        "Ghostflame Dragon",
+        "Putrescent Knight"
+      ]
+    },
+    {
+      "location": "Charo's Hidden Grave",
+      "bosses": [
+        "Death Rite Bird",
+        "Lamenter",
+        "Tibia Mariner"
+      ]
+    },
+    {
+      "location": "Jagged Peak",
+      "bosses": [
+        "Ancient Dragon-Man",
+        "Ancient Dragon Senessax",
+        "Bayle the Dread",
+        "Jagged Peak Drake 1",
+        "Jagged Peak Drake 2"
+      ]
+    },
+    {
+      "location": "Abyssal Woods",
+      "bosses": [
+        "Midra Lord of Frenzied Flame"
+      ]
+    },
+    {
+      "location": "Scaduview",
+      "bosses": [
+        "Fallingstar Beast",
+        "Scadutree Avatar",
+        "Commander Gaius",
+        "Tree Sentinel"
+      ]
+    },
+    {
+      "location": "Ancient Ruins of Rauh",
+      "bosses": [
+        "Divine Beast Dancing Lion",
+        "Romina, Saint of the Bud"
+      ]
+    },
+    {
+      "location": "Enir-Ilim",
+      "bosses": [
+        "Leda",
+        "Allies of Leda 1",
+        "Allies of Leda 2",
+        "Promised Consort Radahn + Radahn Consort of Miquella"
+      ]
+    }
+  ]
