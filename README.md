@@ -20,4 +20,4 @@
 
 ## I will try to keep this readme up to date as a progress, I tend to forget to push changes x)
 
-- Also some of the bosses may be missing feel free to message me on LinkedIn at **www.linkedin.com/in/benjamin-byerly-180947291**
+- Also some of the bosses may be missing feel free to add me on discord at cactus3316
