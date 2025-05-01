@@ -18,4 +18,6 @@
    - This will run the program in a separate window!
   
 
-# I will try to keep this readme up to date as a progress, i tend to forget to push changes x)
+## I will try to keep this readme up to date as a progress, I tend to forget to push changes x)
+
+- Also some of the bosses may be missing feel free to message me on LinkedIn at **www.linkedin.com/in/benjamin-byerly-180947291**
