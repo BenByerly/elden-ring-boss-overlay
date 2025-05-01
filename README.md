@@ -16,3 +16,6 @@
 4. Running the program:
    - In order to run the program go to your terminal and type "npm start"
    - This will run the program in a separate window!
+  
+
+# I will try to keep this readme up to date as a progress, i tend to forget to push changes x)
