@@ -1,4 +1,4 @@
-# This is my project of all the Elden Ring Bosses including DLC as a checklist. 
+# This is a personal project of all the Elden Ring Bosses including DLC as a checklist currently it SUCKS but if i have the time i will make it better. 
 
 ## Installation
 1. **Download and install Node.js**:
